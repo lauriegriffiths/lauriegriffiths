@@ -1,6 +1,6 @@
-Hello there, I'm Laurie. I'm a freelance software engineer based in [Fukuoka,Japan](https://goo.gl/maps/9g3GZ9oeMJAg8r2UA)
+Hello there, I'm Laurie. I'm a software engineer based in [Fukuoka,Japan](https://goo.gl/maps/9g3GZ9oeMJAg8r2UA)
 
-I'm interested in new web technologies, NLP, AI, VR and microcontroller projects.
+I'm interested in using modern web technologies to improve how we interface with computing devices.  I have worked with many popular modern software stacks and some much more legacy ones (tcl/Fortran anyone?).  
 
 When I'm away from the keyboard I like to go running, play the piano and cook British food.
 
